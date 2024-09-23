@@ -1,1 +1,20 @@
 /* your code */
+#table{
+	border: 4px solid green;
+	width: 300px;
+	border-radius: 5px;
+	text-align: center;
+	font-size: 20px;
+	
+}
+
+#head{
+	background-color: blue;
+	color: hotpink;
+}
+
+#body{
+	border: 2px solid green;
+	background-color: yellow;
+	
+}
